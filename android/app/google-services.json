@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "930453498626",
+    "project_id": "bbm-simon",
+    "storage_bucket": "bbm-simon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930453498626:android:81521d680222af8e5eb01b",
+        "android_client_info": {
+          "package_name": "com.example.bbm_simon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930453498626-oeftrqb5h3n99ukpblvdeouvqm1vmbm5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bbm_simon",
+            "certificate_hash": "dd1ab60b6dda4b4d820a335f9ab0170353773c36"
+          }
+        },
+        {
+          "client_id": "930453498626-fnlh0q6oomtauue1t0qgu7tcapou3cbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSXFKVowtabCphw9WLoVieRAqXlhrxZmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930453498626-fnlh0q6oomtauue1t0qgu7tcapou3cbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
